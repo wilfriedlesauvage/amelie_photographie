@@ -1,0 +1,182 @@
+<heml>
+  <head>
+    <subject>Welcome to HEML!</subject>
+    <style>
+      body { background: #F7F7F7; }
+      h1 { text-align: center;}
+      h2 { text-align: center;}
+      h3 { text-align: center;}
+      p { text-align: center;}
+      column img {width: 500px; height: 200px}
+     
+     
+    </style>
+  </head>
+  <body>
+    <header>
+      <div">
+          <div style="position:absolute; z-index: 1">
+            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png">
+          </div>
+          <div>
+            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" alt="Bannière de la newsletter">
+          </div>
+      </div>
+    </header>
+    
+    <br>
+    
+    <h1> Derniers Projets </h1>
+    
+    <br>
+    
+    <container>
+      <row>
+        <column>
+         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet1.png" alt="projet1">
+         <h2>Sous l'arbre</h2>
+         <p>Lorem Ipsum est un générateur 
+            de faux textes aléatoires. 
+            Vous choisissez le nombre de paragraphes,
+            de mots ou de listes.</p>
+        </column>
+
+        <column>
+         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet2.jpeg">
+         <h2>Horizon</h2>
+         <p>Lorem Ipsum est un générateur 
+            de faux textes aléatoires. 
+            Vous choisissez le nombre de paragraphes,
+            de mots ou de listes.</p>
+        </column>
+        
+        <column>
+         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet3.jpg">
+         <h2>Visions</h2>
+         <p>Lorem Ipsum est un générateur 
+            de faux textes aléatoires. 
+            Vous choisissez le nombre de paragraphes,
+            de mots ou de listes.</p>
+        </column>
+      </row>
+    </container>
+    
+    
+    
+    <br>
+    
+    <h1> Les Vernissages </h1>
+    
+    <br>
+    
+    <container>
+      <row>
+          <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png">
+        <column>
+         <h3>La Galerie</h3>
+         <p>Gallerie Baudet</p>
+        </column>
+
+        <column>
+         <h3>Adresse</h3>
+         <p>130 Avenue Foch</p>
+        </column>
+        
+        <column>
+         <h3>Dates</h3>
+         <p>Du 04/05/2020 au 06/08/2020</p>
+        </column>
+      </row>
+      
+      <row>
+      <column>
+         <p>Gallerie Baudet</p>
+        </column>
+
+        <column>
+         <p>130 Avenue Foch</p>
+        </column>
+        
+        <column>
+         <p>Du 04/05/2020 au 06/08/2020</p>
+        </column>
+      </row>
+      
+       <row>
+      <column>
+         <p>Gallerie Baudet</p>
+        </column>
+
+        <column>
+         <p>130 Avenue Foch</p>
+        </column>
+        
+        <column>
+         <p>Du 04/05/2020 au 06/08/2020</p>
+        </column>
+      </row>
+      
+    </container>
+    
+    <br>
+    
+      <h1> Derniers Projets </h1>
+    
+    <br>
+    
+    <container>
+      <row>
+        <column>
+         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente1jpg.jpg">
+         <h2>Sous l'arbre</h2>
+         <button>Kick push </button>
+        </column>
+
+        <column>
+         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente2.png">
+         <h2>Horizon</h2>
+         <button> Roudoudou </button>
+        </column>
+        
+        <column>
+         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente3.jpg">
+         <h2>Visions</h2>
+         <button>Vive la vie</button>
+        </column>
+      </row>
+    </container>
+    
+    <br>
+    
+    <h1> Me suivre </h1>
+    
+    <br>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <br>
+    
+      <h1> Me contacter </h1>
+    
+    <br>
+    
+    
+    
+    
+    
+  </body>
+</heml>
+
+
+
+
+
