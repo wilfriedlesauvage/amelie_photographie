@@ -30,7 +30,7 @@
     <br>
     
     <h1> Derniers Projets </h1>
-    <hr>
+    <hr style="width: 600px; border-color:#feb300">
     
     <br>
     
@@ -39,6 +39,7 @@
      <p>Vous retrouvez ici différentes orientations prises lors de mes excursions photographiques.
      Notamment au niveau de l'emploi des couleurs afin de renforcer chaque situations, et les différentes prises de vue employées selon mes émotions perçues.</p>
      </row>
+    
     
     
       <row>
@@ -80,7 +81,7 @@
     <br>
     
     <h1> Les Vernissages </h1>
-    <hr>
+    <hr style="width: 600px; border-color:#feb300">
     
     <br>
     
@@ -99,35 +100,35 @@
         
         <column>
          <h3>Dates</h3>
-         <p>Du 04/05/2020 au 06/08/2020</p>
+         <p>Du 04/05/2020 au 06/08/2020 inclus</p>
         </column>
       </row>
       
       <row>
       <column>
-         <p>Gallerie Baudet</p>
+         <p>Gallerie Fremont</p>
         </column>
 
         <column>
-         <p>130 Avenue Foch</p>
+         <p>13 rue michou</p>
         </column>
         
         <column>
-         <p>Du 04/05/2020 au 06/08/2020</p>
+         <p>Du 04/05/2020 au 06/08/2020 inclus</p>
         </column>
       </row>
       
        <row>
       <column>
-         <p>Gallerie Baudet</p>
+         <p>Gallerie Le Monnier</p>
         </column>
 
         <column>
-         <p>130 Avenue Foch</p>
+         <p>5 rue du général de gaulle</p>
         </column>
         
         <column>
-         <p>Du 04/05/2020 au 06/08/2020</p>
+         <p>Du 04/05/2020 au 06/08/2020 inclus</p>
         </column>
       </row>
       
@@ -136,7 +137,7 @@
     <br>
     
       <h1> Boutique </h1>
-      <hr>
+      <hr style="width: 600px; border-color:#feb300">
     
     <br>
     
@@ -171,7 +172,7 @@
     <br>
     
     <h1> Me suivre </h1>
-    <hr>
+    <hr style="width: 600px; border-color:#feb300">
     
     <br>
     
@@ -202,7 +203,7 @@
     <br>
     
       <h1> Me contacter </h1>
-      <hr>
+      <hr style="width: 600px; border-color:#feb300">
     
     <br>
     
@@ -228,6 +229,7 @@
     
   </body>
 </heml>
+
 
 
 

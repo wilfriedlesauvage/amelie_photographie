@@ -132,13 +132,13 @@
               </table> <![endif]--> </div>
           </header> <br/>
           <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Derniers Projets </h1>
-          <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
-            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
+          <div class="hr" style="margin: 0 auto; border-color: #FEB300; width: 600px;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 600px;" width="600" align="center">
               <tr>
                 <td> <![endif]-->
                   <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
                     <tr class="hr__row">
-                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A; border-color: #FEB300;">&nbsp;</td>
                     </tr>
                   </table> <!--[if mso | IE]> </td>
               </tr>
@@ -218,13 +218,13 @@
               </tr>
             </table> <![endif]--> </div> <br/>
           <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Les Vernissages </h1>
-          <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
-            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
+          <div class="hr" style="margin: 0 auto; border-color: #FEB300; width: 600px;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 600px;" width="600" align="center">
               <tr>
                 <td> <![endif]-->
                   <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
                     <tr class="hr__row">
-                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A; border-color: #FEB300;">&nbsp;</td>
                     </tr>
                   </table> <!--[if mso | IE]> </td>
               </tr>
@@ -250,7 +250,7 @@
                               </td>
                               <td class="column col-sm-12" width="150" style="width: 25%" align="left" valign="top">
                                 <h3 class="header h3" style="margin: 20px 0; line-height: 24px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Dates</h3>
-                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020 inclus</p>
                               </td>
                             </tr>
                           </table>
@@ -259,13 +259,13 @@
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                             <tr class="row__row">
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Gallerie Baudet</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Gallerie Fremont</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">130 Avenue Foch</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">13 rue michou</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020 inclus</p>
                               </td>
                             </tr>
                           </table>
@@ -274,13 +274,13 @@
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                             <tr class="row__row">
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Gallerie Baudet</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Gallerie Le Monnier</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">130 Avenue Foch</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">5 rue du général de gaulle</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020 inclus</p>
                               </td>
                             </tr>
                           </table>
@@ -291,13 +291,13 @@
               </tr>
             </table> <![endif]--> </div> <br/>
           <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Boutique </h1>
-          <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
-            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
+          <div class="hr" style="margin: 0 auto; border-color: #FEB300; width: 600px;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 600px;" width="600" align="center">
               <tr>
                 <td> <![endif]-->
                   <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
                     <tr class="hr__row">
-                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A; border-color: #FEB300;">&nbsp;</td>
                     </tr>
                   </table> <!--[if mso | IE]> </td>
               </tr>
@@ -390,13 +390,13 @@
     </tr>
     </table> <![endif]--> </div> <br/>
     <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me suivre </h1>
-    <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
-      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
+    <div class="hr" style="margin: 0 auto; border-color: #FEB300; width: 600px;"> <!--[if mso | IE]>
+      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 600px;" width="600" align="center">
         <tr>
           <td> <![endif]-->
             <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
               <tr class="hr__row">
-                <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A; border-color: #FEB300;">&nbsp;</td>
               </tr>
             </table> <!--[if mso | IE]> </td>
         </tr>
@@ -459,13 +459,13 @@
         </tr>
       </table> <![endif]--> </div> <br/>
     <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me contacter </h1>
-    <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
-      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
+    <div class="hr" style="margin: 0 auto; border-color: #FEB300; width: 600px;"> <!--[if mso | IE]>
+      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 600px;" width="600" align="center">
         <tr>
           <td> <![endif]-->
             <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
               <tr class="hr__row">
-                <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A; border-color: #FEB300;">&nbsp;</td>
               </tr>
             </table> <!--[if mso | IE]> </td>
         </tr>
