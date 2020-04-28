@@ -94,18 +94,55 @@
       <tr>
         <td class="body__content" align="left" width="100%" valign="top" style="color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px;">
           <header>
-            <div ">
-          <div style="position:absolute; z-index: 1 ">
-            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png " border="0 " alt=" " class="img__block " style="display: block; max-width: 100%; "/>
-          </div>
-          <div>
-            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png " alt="BanniÃ¨re de la newsletter " border="0 " class="img__block " style="display: block; max-width: 100%; "/>
-          </div>
-      
-    </div">
+            <div class="block" style="width: 100%; padding: 0;"> <!--[if mso | IE]>
+              <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%;" width="100%">
+                <tr>
+                  <td> <![endif]-->
+                    <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                      <tr class="block__row">
+                        <td class="block__cell" width="100%" align="left" valign="top" style="padding: 0;">
+                          <div class="block" style="width: 100%; position: absolute; z-index: 1;"> <!--[if mso | IE]>
+                            <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%;" width="100%">
+                              <tr>
+                                <td> <![endif]-->
+                                  <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr class="block__row">
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 0;"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png" alt="Logo du site" border="0" class="img__block" style="display: block; max-width: 100%;" /> </td>
+                                    </tr>
+                                  </table> <!--[if mso | IE]> </td>
+                              </tr>
+                            </table> <![endif]--> </div>
+                          <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                            <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%;" width="100%">
+                              <tr>
+                                <td> <![endif]-->
+                                  <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr class="block__row">
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 0;"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" alt="Bannière de la newsletter" border="0" class="img__block" style="display: block; max-width: 100%;"
+                                        /> </td>
+                                    </tr>
+                                  </table> <!--[if mso | IE]> </td>
+                              </tr>
+                            </table> <![endif]--> </div>
+                        </td>
+                      </tr>
+                    </table> <!--[if mso | IE]> </td>
+                </tr>
+              </table> <![endif]--> </div>
           </header> <br/>
-          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Derniers Projets </h1> <br/>
-          <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
+          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Derniers Projets </h1>
+          <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+              <tr>
+                <td> <![endif]-->
+                  <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+                    <tr class="hr__row">
+                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                    </tr>
+                  </table> <!--[if mso | IE]> </td>
+              </tr>
+            </table> <![endif]--> </div> <br/>
+          <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
             <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
               <tr>
                 <td> <![endif]-->
@@ -115,20 +152,53 @@
                         <div class="row">
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                             <tr class="row__row">
-                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet1.png" alt="projet1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;"
-                                  width="500" height="200" />
-                                <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Sous l'arbre</h2>
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un gÃ©nÃ©rateur de faux textes alÃ©atoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                                <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                                  <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+                                    <tr>
+                                      <td> <![endif]-->
+                                        <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                          <tr class="block__row">
+                                            <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet1.png" alt="projet1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
+                                              <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Sous l'arbre</h2>
+                                              <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                                            </td>
+                                          </tr>
+                                        </table> <!--[if mso | IE]> </td>
+                                    </tr>
+                                  </table> <![endif]--> </div>
                               </td>
-                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet2.jpeg" border="0" alt="" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;"
-                                  width="500" height="200" />
-                                <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Horizon</h2>
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un gÃ©nÃ©rateur de faux textes alÃ©atoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                                <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                                  <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+                                    <tr>
+                                      <td> <![endif]-->
+                                        <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                          <tr class="block__row">
+                                            <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet2.jpeg" alt="projet1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
+                                              <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Horizon</h2>
+                                              <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                                            </td>
+                                          </tr>
+                                        </table> <!--[if mso | IE]> </td>
+                                    </tr>
+                                  </table> <![endif]--> </div>
                               </td>
-                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet3.jpg" border="0" alt="" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;"
-                                  width="500" height="200" />
-                                <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Visions</h2>
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un gÃ©nÃ©rateur de faux textes alÃ©atoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                                <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                                  <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+                                    <tr>
+                                      <td> <![endif]-->
+                                        <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                          <tr class="block__row">
+                                            <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet3.jpg" alt="projet1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
+                                              <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Visions</h2>
+                                              <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                                            </td>
+                                          </tr>
+                                        </table> <!--[if mso | IE]> </td>
+                                    </tr>
+                                  </table> <![endif]--> </div>
                               </td>
                             </tr>
                           </table>
@@ -138,8 +208,19 @@
                   </table> <!--[if mso | IE]> </td>
               </tr>
             </table> <![endif]--> </div> <br/>
-          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Les Vernissages </h1> <br/>
-          <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
+          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Les Vernissages </h1>
+          <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+              <tr>
+                <td> <![endif]-->
+                  <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+                    <tr class="hr__row">
+                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                    </tr>
+                  </table> <!--[if mso | IE]> </td>
+              </tr>
+            </table> <![endif]--> </div> <br/>
+          <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
             <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
               <tr>
                 <td> <![endif]-->
@@ -148,9 +229,9 @@
                       <td class="container__cell" width="100%" align="left" valign="top">
                         <div class="row">
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
-                            <tr class="row__row"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" large="3" border="0" alt="" class="img__block" style="display: block; max-width: 100%;" />
-                              <td class="column col-sm-12"
-                                width="150" style="width: 25%" align="left" valign="top">
+                            <tr class="row__row"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" alt="photo vernissage" large="3" border="0" class="img__block" style="display: block; max-width: 100%;"
+                              />
+                              <td class="column col-sm-12" width="150" style="width: 25%" align="left" valign="top">
                                 <h3 class="header h3" style="margin: 20px 0; line-height: 24px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">La Galerie</h3>
                                 <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Gallerie Baudet</p>
                               </td>
@@ -200,8 +281,19 @@
                   </table> <!--[if mso | IE]> </td>
               </tr>
             </table> <![endif]--> </div> <br/>
-          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Derniers Projets </h1> <br/>
-          <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
+          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Boutique </h1>
+          <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+              <tr>
+                <td> <![endif]-->
+                  <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+                    <tr class="hr__row">
+                      <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+                    </tr>
+                  </table> <!--[if mso | IE]> </td>
+              </tr>
+            </table> <![endif]--> </div> <br/>
+          <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
             <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
               <tr>
                 <td> <![endif]-->
@@ -211,68 +303,148 @@
                         <div class="row">
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                             <tr class="row__row">
-                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente1jpg.jpg" border="0" alt="" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;"
-                                  width="500" height="200" />
-                                <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Sous l'arbre</h2>
-                                <div class="button">
-                                  <table role="presentation" width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
+                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                                <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                                  <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
                                     <tr>
-                                      <td>
-                                        <table role="presentation" width="auto" align="center" border="0" cellspacing="0" cellpadding="0" class="button__table" style="margin: 0 auto;">
-                                          <tr>
-                                            <td align="center" class="button__cell" style="background-color: #2097E4; border-radius: 3px; padding: 6px 12px;" bgcolor="#2097E4"><a href="#" class="button__link" style="background-color: #2097E4; color: #FFFFFF; text-decoration: none; display: inline-block;"><span class="button__text" style="color: #FFFFFF; text-decoration: none;">Kick push </span></a></td>
+                                      <td> <![endif]-->
+                                        <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                          <tr class="block__row">
+                                            <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente1jpg.jpg" alt="photo vente 1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
+                                              <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Sous l'arbre</h2> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html" class="a"><span class="a__text"><div class="button"><table role="presentation" width="100%" align="left" border="0" cellpadding="0" cellspacing="0"><tr><td><table role="presentation" width="auto" align="center" border="0" cellspacing="0" cellpadding="0" class="button__table" style="margin: 0 auto;"><tr><td align="center" class="button__cell" style="border-radius: 3px; padding: 6px 12px; background-color: #FEB300;" bgcolor="#FEB300"><a href="#" class="button__link" style="color: #FFFFFF; text-decoration: none; background-color: #FEB300; display: inline-block;"><span class="button__text" style="color: #FFFFFF; text-decoration: none;">Kick push </span></a></td>
                                           </tr>
                                         </table>
                                       </td>
                                     </tr>
                                   </table>
                                 </div>
-                              </td>
-                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente2.png" border="0" alt="" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;"
-                                  width="500" height="200" />
-                                <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Horizon</h2>
-                                <div class="button">
-                                  <table role="presentation" width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
-                                    <tr>
-                                      <td>
-                                        <table role="presentation" width="auto" align="center" border="0" cellspacing="0" cellpadding="0" class="button__table" style="margin: 0 auto;">
-                                          <tr>
-                                            <td align="center" class="button__cell" style="background-color: #2097E4; border-radius: 3px; padding: 6px 12px;" bgcolor="#2097E4"><a href="#" class="button__link" style="background-color: #2097E4; color: #FFFFFF; text-decoration: none; display: inline-block;"><span class="button__text" style="color: #FFFFFF; text-decoration: none;"> Roudoudou </span></a></td>
-                                          </tr>
-                                        </table>
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </div>
-                              </td>
-                              <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente3.jpg" border="0" alt="" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;"
-                                  width="500" height="200" />
-                                <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Visions</h2>
-                                <div class="button">
-                                  <table role="presentation" width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
-                                    <tr>
-                                      <td>
-                                        <table role="presentation" width="auto" align="center" border="0" cellspacing="0" cellpadding="0" class="button__table" style="margin: 0 auto;">
-                                          <tr>
-                                            <td align="center" class="button__cell" style="background-color: #2097E4; border-radius: 3px; padding: 6px 12px;" bgcolor="#2097E4"><a href="#" class="button__link" style="background-color: #2097E4; color: #FFFFFF; text-decoration: none; display: inline-block;"><span class="button__text" style="color: #FFFFFF; text-decoration: none;">Vive la vie</span></a></td>
-                                          </tr>
-                                        </table>
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </div>
+                                </span>
+                                </a>
                               </td>
                             </tr>
-                          </table>
-                        </div>
-                      </td>
+                          </table> <!--[if mso | IE]> </td>
                     </tr>
-                  </table> <!--[if mso | IE]> </td>
+                  </table> <![endif]--> </div>
+                </td>
+                <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                  <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                    <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+                      <tr>
+                        <td> <![endif]-->
+                          <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                            <tr class="block__row">
+                              <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente2.png" alt="photo vente 2" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
+                                <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Horizon</h2> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html" class="a"><span class="a__text"><div class="button"><table role="presentation" width="100%" align="left" border="0" cellpadding="0" cellspacing="0"><tr><td><table role="presentation" width="auto" align="center" border="0" cellspacing="0" cellpadding="0" class="button__table" style="margin: 0 auto;"><tr><td align="center" class="button__cell" style="border-radius: 3px; padding: 6px 12px; background-color: #FEB300;" bgcolor="#FEB300"><a href="#" class="button__link" style="color: #FFFFFF; text-decoration: none; background-color: #FEB300; display: inline-block;"><span class="button__text" style="color: #FFFFFF; text-decoration: none;"> Roudoudou </span></a></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  </span>
+                  </a>
+                </td>
               </tr>
-            </table> <![endif]--> </div> <br/>
-          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me suivre </h1> <br/> <br/>
-          <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me contacter </h1> <br/> </td>
+            </table> <!--[if mso | IE]> </td>
       </tr>
+    </table> <![endif]--> </div>
+    </td>
+    <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+      <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+        <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+          <tr>
+            <td> <![endif]-->
+              <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                <tr class="block__row">
+                  <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente3.jpg" alt="photo vente 3" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
+                    <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Visions</h2> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html" class="a"><span class="a__text"><div class="button"><table role="presentation" width="100%" align="left" border="0" cellpadding="0" cellspacing="0"><tr><td><table role="presentation" width="auto" align="center" border="0" cellspacing="0" cellpadding="0" class="button__table" style="margin: 0 auto;"><tr><td align="center" class="button__cell" style="border-radius: 3px; padding: 6px 12px; background-color: #FEB300;" bgcolor="#FEB300"><a href="#" class="button__link" style="color: #FFFFFF; text-decoration: none; background-color: #FEB300; display: inline-block;"><span class="button__text" style="color: #FFFFFF; text-decoration: none;">Vive la vie</span></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+      </span>
+      </a>
+    </td>
+    </tr>
+    </table> <!--[if mso | IE]> </td>
+    </tr>
+    </table> <![endif]--> </div>
+    </td>
+    </tr>
+    </table>
+    </div>
+    </td>
+    </tr>
+    </table> <!--[if mso | IE]> </td>
+    </tr>
+    </table> <![endif]--> </div> <br/>
+    <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me suivre </h1>
+    <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
+      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+        <tr>
+          <td> <![endif]-->
+            <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+              <tr class="hr__row">
+                <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+              </tr>
+            </table> <!--[if mso | IE]> </td>
+        </tr>
+      </table> <![endif]--> </div> <br/>
+    <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
+      <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
+        <tr>
+          <td> <![endif]-->
+            <table class="container__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+              <tr class="container__row">
+                <td class="container__cell" width="100%" align="left" valign="top">
+                  <div class="row">
+                    <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+                      <tr class="row__row">
+                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <a href="https://www.facebook.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>                          </td>
+                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <a href="https://www.instagram.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; height: 50px;" width="50" height="50"/></span></a>                          </td>
+                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <a href="https://www.tumblr.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; height: 50px;" width="50" height="50"/></span></a>                          </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table> <!--[if mso | IE]> </td>
+        </tr>
+      </table> <![endif]--> </div> <br/>
+    <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me contacter </h1>
+    <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
+      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+        <tr>
+          <td> <![endif]-->
+            <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+              <tr class="hr__row">
+                <td class="hr__cell" width="100%" align="left" valign="top" style="border-top: 1px solid #9A9A9A;">&nbsp;</td>
+              </tr>
+            </table> <!--[if mso | IE]> </td>
+        </tr>
+      </table> <![endif]--> </div> <br/>
+    <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
+      <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
+        <tr>
+          <td> <![endif]-->
+            <table class="container__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+              <tr class="container__row">
+                <td class="container__cell" width="100%" align="left" valign="top">
+                  <div class="row">
+                    <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+                      <tr class="row__row"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/contact.png" alt="icone courrier email" large="12" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; height: 50px;"
+                          width="50" height="50" /> </tr>
+                    </table>
+                  </div>
+                </td>
+              </tr>
+            </table> <!--[if mso | IE]> </td>
+        </tr>
+      </table> <![endif]--> </div>
+    </td>
+    </tr>
     </table>
     <div style="display:none; white-space:nowrap; font-size:15px; line-height:0;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
   </body>

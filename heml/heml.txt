@@ -8,70 +8,78 @@
       h3 { text-align: center;}
       p { text-align: center;}
       column img {width: 500px; height: 200px}
-     
+      button { background-color:#feb300; }
+      block {padding: 10px}
+      
      
     </style>
   </head>
   <body>
     <header>
-      <div">
-          <div style="position:absolute; z-index: 1">
-            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png">
-          </div>
-          <div>
-            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" alt="BanniÃ¨re de la newsletter">
-          </div>
-      </div>
+      <block style="padding: 0;">
+          <block style="position:absolute; z-index: 1">
+            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png" alt="Logo du site">
+          </block>
+          <block>
+            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" alt="Bannière de la newsletter">
+          </block>
+      </block>
     </header>
     
     <br>
     
     <h1> Derniers Projets </h1>
+    <hr>
     
     <br>
     
     <container>
       <row>
         <column>
-         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet1.png" alt="projet1">
+          <block>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet1.png" alt="projet1"></a>
          <h2>Sous l'arbre</h2>
-         <p>Lorem Ipsum est un gÃ©nÃ©rateur 
-            de faux textes alÃ©atoires. 
+         <p>Lorem Ipsum est un générateur 
+            de faux textes aléatoires. 
             Vous choisissez le nombre de paragraphes,
             de mots ou de listes.</p>
+            </block>
         </column>
 
         <column>
-         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet2.jpeg">
+          <block>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet2.jpeg" alt="projet1"></a>
          <h2>Horizon</h2>
-         <p>Lorem Ipsum est un gÃ©nÃ©rateur 
-            de faux textes alÃ©atoires. 
+         <p>Lorem Ipsum est un générateur 
+            de faux textes aléatoires. 
             Vous choisissez le nombre de paragraphes,
             de mots ou de listes.</p>
+            </block>
         </column>
         
         <column>
-         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet3.jpg">
+          <block>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet3.jpg" alt="projet1"></a>
          <h2>Visions</h2>
-         <p>Lorem Ipsum est un gÃ©nÃ©rateur 
-            de faux textes alÃ©atoires. 
+         <p>Lorem Ipsum est un générateur 
+            de faux textes aléatoires. 
             Vous choisissez le nombre de paragraphes,
             de mots ou de listes.</p>
+            </block>
         </column>
       </row>
     </container>
     
-    
-    
     <br>
     
     <h1> Les Vernissages </h1>
+    <hr>
     
     <br>
     
     <container>
       <row>
-          <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png">
+          <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" alt="photo vernissage">
         <column>
          <h3>La Galerie</h3>
          <p>Gallerie Baudet</p>
@@ -120,28 +128,35 @@
     
     <br>
     
-      <h1> Derniers Projets </h1>
+      <h1> Boutique </h1>
+      <hr>
     
     <br>
     
     <container>
       <row>
         <column>
-         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente1jpg.jpg">
+          <block>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente1jpg.jpg" alt="photo vente 1"></a>
          <h2>Sous l'arbre</h2>
-         <button>Kick push </button>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html"><button>Kick push </button></a>
+          </block>
         </column>
 
         <column>
-         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente2.png">
+          <block>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente2.png" alt="photo vente 2"></a>
          <h2>Horizon</h2>
-         <button> Roudoudou </button>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html"><button> Roudoudou </button></a>
+          </block>
         </column>
         
         <column>
-         <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente3.jpg">
+          <block>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vente3.jpg" alt="photo vente 3"></a>
          <h2>Visions</h2>
-         <button>Vive la vie</button>
+         <a href="https://wilfriedlesauvage.github.io/amelie_photographie/boutique.html"><button>Vive la vie</button></a>
+          </block>
         </column>
       </row>
     </container>
@@ -149,26 +164,46 @@
     <br>
     
     <h1> Me suivre </h1>
+    <hr>
     
     <br>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <container>
+      <row>
+        <column>
+          
+        <a href="https://www.facebook.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook"></a>
+        
+        </column>
+        
+        <column>
+        <a href="https://www.instagram.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram" style="width: 50px; height: 50px;"></a>
+        </column>
+        
+        <column>
+        <a href="https://www.tumblr.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" style="width: 50px; height: 50px;"></a>
+        </column>
+ 
+      </row>
+    </container>
     
     
     <br>
     
       <h1> Me contacter </h1>
+      <hr>
     
     <br>
     
+     <container>
+      <row>
+        
+        <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/contact.png" alt="icone courrier email" style="width: 50px; height: 50px;">
+      
+       </row>
+        
+      
+    </container>
     
     
     
