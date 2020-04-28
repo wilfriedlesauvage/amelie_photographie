@@ -180,22 +180,21 @@
       <row>
         <column>
           <block>
-        <a href="https://www.facebook.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" infer="retina"></a>
+        <a href="https://www.facebook.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" style="width: 50px; height: 50px; margin: auto;"></a>
           </block>
         </column>
         
         <column>
           <block>
-         <a href="https://www.instagram.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram style="width: 50px; height: 50px;"></a>
+         <a href="https://www.instagram.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram" style="width: 50px; height: 50px; margin: auto;"></a>
           </block>
         </column>
         
         <column>
           <block>
-        <a href="https://www.tumblr.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr"></a>
+        <a href="https://www.tumblr.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" style="width: 50px; height: 50px; margin: auto;"></a>
           </block>
         </column>
- 
       </row>
     </container>
     
@@ -229,7 +228,6 @@
     
   </body>
 </heml>
-
 
 
 

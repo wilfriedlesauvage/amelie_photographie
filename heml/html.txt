@@ -418,7 +418,7 @@
                                 <td> <![endif]-->
                                   <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
                                     <tr class="block__row">
-                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.facebook.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" border="0" class="img__block" width="500" style="display: block; max-width: 100%; width: 500px; height: 200px;" height="200"/></span></a>                                        </td>
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.facebook.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; margin: 0 auto; height: 50px;" width="50" height="50"/></span></a>                                        </td>
                                     </tr>
                                   </table> <!--[if mso | IE]> </td>
                               </tr>
@@ -431,7 +431,7 @@
                                 <td> <![endif]-->
                                   <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
                                     <tr class="block__row">
-                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.instagram.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram style=" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>                                        </td>
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.instagram.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; margin: 0 auto; height: 50px;" width="50" height="50"/></span></a>                                        </td>
                                     </tr>
                                   </table> <!--[if mso | IE]> </td>
                               </tr>
@@ -444,7 +444,7 @@
                                 <td> <![endif]-->
                                   <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
                                     <tr class="block__row">
-                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.tumblr.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>                                        </td>
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.tumblr.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; margin: 0 auto; height: 50px;" width="50" height="50"/></span></a>                                        </td>
                                     </tr>
                                   </table> <!--[if mso | IE]> </td>
                               </tr>
