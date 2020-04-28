@@ -107,7 +107,8 @@
                                 <td> <![endif]-->
                                   <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
                                     <tr class="block__row">
-                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 0;"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png" alt="Logo du site" border="0" class="img__block" style="display: block; max-width: 100%;" /> </td>
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 0;"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png" alt="Logo du site" border="0" class="img__block" style="display: block; max-width: 100%; width: 10%;"
+                                        /> </td>
                                     </tr>
                                   </table> <!--[if mso | IE]> </td>
                               </tr>
@@ -131,8 +132,8 @@
               </table> <![endif]--> </div>
           </header> <br/>
           <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Derniers Projets </h1>
-          <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
-            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+          <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
               <tr>
                 <td> <![endif]-->
                   <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
@@ -142,13 +143,21 @@
                   </table> <!--[if mso | IE]> </td>
               </tr>
             </table> <![endif]--> </div> <br/>
-          <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
+          <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
             <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
               <tr>
                 <td> <![endif]-->
                   <table class="container__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
                     <tr class="container__row">
                       <td class="container__cell" width="100%" align="left" valign="top">
+                        <div class="row">
+                          <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+                            <tr class="row__row">
+                              <p large="12" class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Vous retrouvez ici différentes orientations prises lors de mes excursions photographiques. Notamment au niveau de l'emploi des couleurs afin de renforcer chaque situations, et les différentes prises de vue employées selon
+                                mes émotions perçues.</p>
+                            </tr>
+                          </table>
+                        </div>
                         <div class="row">
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                             <tr class="row__row">
@@ -161,7 +170,7 @@
                                           <tr class="block__row">
                                             <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet1.png" alt="projet1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
                                               <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Sous l'arbre</h2>
-                                              <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                                              <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
                                             </td>
                                           </tr>
                                         </table> <!--[if mso | IE]> </td>
@@ -177,7 +186,7 @@
                                           <tr class="block__row">
                                             <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet2.jpeg" alt="projet1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
                                               <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Horizon</h2>
-                                              <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                                              <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
                                             </td>
                                           </tr>
                                         </table> <!--[if mso | IE]> </td>
@@ -193,7 +202,7 @@
                                           <tr class="block__row">
                                             <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://wilfriedlesauvage.github.io/amelie_photographie/projets.html" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/projet3.jpg" alt="projet1" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>
                                               <h2 class="header h2" style="margin: 20px 0; line-height: 30px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Visions</h2>
-                                              <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
+                                              <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes.</p>
                                             </td>
                                           </tr>
                                         </table> <!--[if mso | IE]> </td>
@@ -209,8 +218,8 @@
               </tr>
             </table> <![endif]--> </div> <br/>
           <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Les Vernissages </h1>
-          <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
-            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+          <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
               <tr>
                 <td> <![endif]-->
                   <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
@@ -220,7 +229,7 @@
                   </table> <!--[if mso | IE]> </td>
               </tr>
             </table> <![endif]--> </div> <br/>
-          <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
+          <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
             <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
               <tr>
                 <td> <![endif]-->
@@ -233,15 +242,15 @@
                               />
                               <td class="column col-sm-12" width="150" style="width: 25%" align="left" valign="top">
                                 <h3 class="header h3" style="margin: 20px 0; line-height: 24px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">La Galerie</h3>
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Gallerie Baudet</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Gallerie Baudet</p>
                               </td>
                               <td class="column col-sm-12" width="150" style="width: 25%" align="left" valign="top">
                                 <h3 class="header h3" style="margin: 20px 0; line-height: 24px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Adresse</h3>
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">130 Avenue Foch</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">130 Avenue Foch</p>
                               </td>
                               <td class="column col-sm-12" width="150" style="width: 25%" align="left" valign="top">
                                 <h3 class="header h3" style="margin: 20px 0; line-height: 24px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;">Dates</h3>
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Du 04/05/2020 au 06/08/2020</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020</p>
                               </td>
                             </tr>
                           </table>
@@ -250,13 +259,13 @@
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                             <tr class="row__row">
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Gallerie Baudet</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Gallerie Baudet</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">130 Avenue Foch</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">130 Avenue Foch</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Du 04/05/2020 au 06/08/2020</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020</p>
                               </td>
                             </tr>
                           </table>
@@ -265,13 +274,13 @@
                           <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                             <tr class="row__row">
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Gallerie Baudet</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Gallerie Baudet</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">130 Avenue Foch</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">130 Avenue Foch</p>
                               </td>
                               <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
-                                <p class="text p" style="display: block; margin: 14px 0; color: #000000; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center;">Du 04/05/2020 au 06/08/2020</p>
+                                <p class="text p" style="display: block; margin: 14px 0; font-family: Helvetica,Arial,sans-serif; font-size: 16px; line-height: 20px; text-align: center; color: #5D5D5D;">Du 04/05/2020 au 06/08/2020</p>
                               </td>
                             </tr>
                           </table>
@@ -282,8 +291,8 @@
               </tr>
             </table> <![endif]--> </div> <br/>
           <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Boutique </h1>
-          <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
-            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+          <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
+            <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
               <tr>
                 <td> <![endif]-->
                   <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
@@ -293,7 +302,7 @@
                   </table> <!--[if mso | IE]> </td>
               </tr>
             </table> <![endif]--> </div> <br/>
-          <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
+          <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
             <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
               <tr>
                 <td> <![endif]-->
@@ -381,8 +390,8 @@
     </tr>
     </table> <![endif]--> </div> <br/>
     <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me suivre </h1>
-    <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
-      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+    <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
+      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
         <tr>
           <td> <![endif]-->
             <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
@@ -392,7 +401,7 @@
             </table> <!--[if mso | IE]> </td>
         </tr>
       </table> <![endif]--> </div> <br/>
-    <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
+    <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
       <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
         <tr>
           <td> <![endif]-->
@@ -402,9 +411,45 @@
                   <div class="row">
                     <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
                       <tr class="row__row">
-                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <a href="https://www.facebook.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>                          </td>
-                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <a href="https://www.instagram.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; height: 50px;" width="50" height="50"/></span></a>                          </td>
-                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top"> <a href="https://www.tumblr.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; height: 50px;" width="50" height="50"/></span></a>                          </td>
+                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                          <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                            <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+                              <tr>
+                                <td> <![endif]-->
+                                  <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr class="block__row">
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.facebook.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" border="0" class="img__block" width="500" style="display: block; max-width: 100%; width: 500px; height: 200px;" height="200"/></span></a>                                        </td>
+                                    </tr>
+                                  </table> <!--[if mso | IE]> </td>
+                              </tr>
+                            </table> <![endif]--> </div>
+                        </td>
+                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                          <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                            <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+                              <tr>
+                                <td> <![endif]-->
+                                  <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr class="block__row">
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.instagram.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram style=" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>                                        </td>
+                                    </tr>
+                                  </table> <!--[if mso | IE]> </td>
+                              </tr>
+                            </table> <![endif]--> </div>
+                        </td>
+                        <td class="column col-sm-12" width="198" style="width: 33%" align="left" valign="top">
+                          <div class="block" style="width: 100%;"> <!--[if mso | IE]>
+                            <table class="block__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%" width="198">
+                              <tr>
+                                <td> <![endif]-->
+                                  <table class="block__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr class="block__row">
+                                      <td class="block__cell" width="100%" align="left" valign="top" style="padding: 10px;"> <a href="https://www.tumblr.fr" class="a"><span class="a__text"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" border="0" class="img__block" style="display: block; max-width: 100%; width: 500px; height: 200px;" width="500" height="200"/></span></a>                                        </td>
+                                    </tr>
+                                  </table> <!--[if mso | IE]> </td>
+                              </tr>
+                            </table> <![endif]--> </div>
+                        </td>
                       </tr>
                     </table>
                   </div>
@@ -414,8 +459,8 @@
         </tr>
       </table> <![endif]--> </div> <br/>
     <h1 class="header h1" style="margin: 20px 0; line-height: 40px; color: #000000; font-family: Helvetica,Arial,sans-serif; text-align: center;"> Me contacter </h1>
-    <div class="hr" style="margin: 0 auto; width: 100%;"> <!--[if mso | IE]>
-      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto; width: 100%;" width="100%" align="center">
+    <div class="hr" style="width: 100%; margin: 0 auto;"> <!--[if mso | IE]>
+      <table class="hr__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="width: 100%; margin-right: auto; margin-left: auto;" width="100%" align="center">
         <tr>
           <td> <![endif]-->
             <table class="hr__table" role="presentation" border="0" align="center" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
@@ -425,7 +470,7 @@
             </table> <!--[if mso | IE]> </td>
         </tr>
       </table> <![endif]--> </div> <br/>
-    <div class="container" style="margin: 0 auto; width: 100%; max-width: 600px;"> <!--[if mso | IE]>
+    <div class="container" style="margin: 0 auto; max-width: 600px; width: 100%;"> <!--[if mso | IE]>
       <table class="container__table__ie" role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin-right: auto; margin-left: auto;width: 600px" width="600" align="center">
         <tr>
           <td> <![endif]-->
@@ -434,8 +479,28 @@
                 <td class="container__cell" width="100%" align="left" valign="top">
                   <div class="row">
                     <table class="row__table" width="100%" align="center" role="presentation" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
-                      <tr class="row__row"> <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/contact.png" alt="icone courrier email" large="12" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; height: 50px;"
-                          width="50" height="50" /> </tr>
+                      <tr class="row__row">
+                        <td class="column col-sm-12" width="600" style="width: 100%" align="left" valign="top">
+                          <div class="mail button">
+                            <table role="presentation" width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td>
+                                  <table role="presentation" width="auto" align="center" border="0" cellspacing="0" cellpadding="0" class="button__table" style="margin: 0 auto;">
+                                    <tr>
+                                      <td align="center" class="button__cell" style="border-radius: 3px; padding: 6px 12px; background-color: #FEB300;" bgcolor="#FEB300"><a href="#" class="button__link" style="color: #FFFFFF; text-decoration: none; background-color: #FEB300; display: inline-block;"><span class="button__text" style="color: #FFFFFF; text-decoration: none;">
+            <a href="mailto:amelie_photographie@gmail.com" class="a"><span class="a__text">
+              <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/contact.png" alt="icone courrier email" border="0" class="img__block" style="display: block; max-width: 100%; width: 50px; height: 50px;" width="50" height="50"/>
+           </span></a> </span>
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </td>
+                      </tr>
                     </table>
                   </div>
                 </td>

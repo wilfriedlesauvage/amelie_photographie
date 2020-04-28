@@ -6,10 +6,11 @@
       h1 { text-align: center;}
       h2 { text-align: center;}
       h3 { text-align: center;}
-      p { text-align: center;}
+      p { text-align: center; color: #5d5d5d;}
       column img {width: 500px; height: 200px}
       button { background-color:#feb300; }
       block {padding: 10px}
+      
       
      
     </style>
@@ -18,7 +19,7 @@
     <header>
       <block style="padding: 0;">
           <block style="position:absolute; z-index: 1">
-            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png" alt="Logo du site">
+            <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/logo_blanc.png" alt="Logo du site" style="width:10%">
           </block>
           <block>
             <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/images/vernissage.png" alt="Bannière de la newsletter">
@@ -34,6 +35,12 @@
     <br>
     
     <container>
+     <row>
+     <p>Vous retrouvez ici différentes orientations prises lors de mes excursions photographiques.
+     Notamment au niveau de l'emploi des couleurs afin de renforcer chaque situations, et les différentes prises de vue employées selon mes émotions perçues.</p>
+     </row>
+    
+    
       <row>
         <column>
           <block>
@@ -171,17 +178,21 @@
     <container>
       <row>
         <column>
-          
-        <a href="https://www.facebook.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook"></a>
-        
+          <block>
+        <a href="https://www.facebook.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/facebook_Icon.png" alt="icone facebook" infer="retina"></a>
+          </block>
         </column>
         
         <column>
-        <a href="https://www.instagram.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram" style="width: 50px; height: 50px;"></a>
+          <block>
+         <a href="https://www.instagram.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/index.jpg" alt="icone instagram style="width: 50px; height: 50px;"></a>
+          </block>
         </column>
         
         <column>
-        <a href="https://www.tumblr.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr" style="width: 50px; height: 50px;"></a>
+          <block>
+        <a href="https://www.tumblr.fr"><img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/Tumblr.svg.png" alt="icone tumblr"></a>
+          </block>
         </column>
  
       </row>
@@ -198,8 +209,15 @@
      <container>
       <row>
         
-        <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/contact.png" alt="icone courrier email" style="width: 50px; height: 50px;">
-      
+        <column>
+
+        <button class="mail">
+            <a href="mailto:amelie_photographie@gmail.com">
+              <img src="https://raw.githubusercontent.com/wilfriedlesauvage/amelie_photographie/master/assets/img/contact.png" alt="icone courrier email" style="width: 50px; height: 50px;">
+           </a>
+        </button>
+        </column>
+        
        </row>
         
       
